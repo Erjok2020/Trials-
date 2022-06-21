@@ -1,0 +1,4 @@
+#!/bin/bash/env bash
+#  a script that asks the user to create a phrase and count the words.
+
+words=$ (echo -n "am an alu nerd"|wc-w)
